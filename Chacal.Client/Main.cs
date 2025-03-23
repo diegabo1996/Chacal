@@ -12,7 +12,7 @@ namespace Chacal.Client
         public Main()
         {
             InitializeComponent();
-            client = new TikTokLiveClient("gladis_apos.iiicba", "");
+            client = new TikTokLiveClient("kamake009", "");
             //client.OnConnected += Client_OnConnected;
             //client.OnDisconnected += Client_OnDisconnected;
             //client.OnRoomUpdate += Client_OnViewerData;
